@@ -1,0 +1,58 @@
+
+/**
+ * @file
+ * Main stylesheet file.
+ */
+
+
+/*****************************************************************************
+ * Main elements
+ ****************************************************************************/
+html {
+  overflow-y: scroll;
+}
+a {
+  cursor: pointer;
+}
+::selection {
+  background: #555;
+  color: #FFF;
+}
+::-moz-selection {
+  background: #555;
+  color: #FFF;
+}
+::-webkit-selection {
+  background: #555;
+  color: #FFF;
+}
+
+p {
+	font-size: 20px;
+	margin-top: 5px;
+	color: grey;
+}
+
+.social {
+  width: 33%;
+  max-width: 8em;
+  height: 33%;
+  max-height: 8em;
+  margin-top: 20%;
+  margin-left: 2em;
+}
+
+#others {
+  max-width: 1em;
+  max-height: 1em;
+  padding-bottom: .1em;
+}
+
+/* Main elements end */
+
+
+/*****************************************************************************
+ * Various other styles
+ ****************************************************************************/
+
+/* Various other styles end */

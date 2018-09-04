@@ -1,0 +1,10 @@
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+coverage
+gunicorn
+yubico_client
+# ecdsa
+# paramiko
+# pycrypto
